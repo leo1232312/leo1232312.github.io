@@ -15,15 +15,14 @@ My research interests focus on **Natural Language Processing (NLP)** and **The a
 **Current focus:** The application of LLMS.
 
 
-## Research {#research}
+## <i class="fas fa-flask"></i> Research {#research}
 
 ### Automated Essay Scoring with Task-Adaptive Prior Injection
 I work on a collaborative AES framework that **anchors a Teacher LLM with numerical priors** and **task-adaptive contextual signals** (e.g., genre/level hints), enforcing a structured *reasoning-before-scoring* workflow.  
 Key components include **delta calibration**, **legality projection (integer-only + range clipping)**, and **schema-validated structured outputs**, aiming to improve both **scoring accuracy** and **run-to-run stability**, while producing **rubric-grounded diagnostic feedback**. 
 
 
-## <i class="far fa-file-alt"></i> Selected Publications
-{#publications}
+## <i class="far fa-file-alt"></i> Selected Publications {#publications}
 
 
 - **Towards Reliable and Consistent Essay Scoring: A Collaborative Framework with Task-Adaptive Prior Injection**  
@@ -31,7 +30,7 @@ Key components include **delta calibration**, **legality projection (integer-onl
   **Keywords:** Automated Essay Scoring, Teacher LLM, prior injection, scale drift, score–feedback alignment. 
 
 
-## Projects {#projects}
+## <i class="fas fa-code"></i> Projects {#projects}
 
 ### 1) Prior-Injection AES: Reliable Scoring & Consistent Feedback Calibration (ACL 2026)
 - Built a hybrid scoring pipeline that integrates **stable neural priors** with **Teacher LLM calibration**, constrained by **task-adaptive signals** (genre/level/range hints).
@@ -49,7 +48,7 @@ Key components include **delta calibration**, **legality projection (integer-onl
 - Integrated embedded hardware wiring, sensor interfaces, motor driving, and system debugging for an end-to-end prototype. 
 
 
-## Awards {#awards}
+## <i class="fas fa-trophy"></i> Awards {#awards}
 
 - **MCM/ICM 2025 — Meritorious Winner (Problem C)**
 - **Baidu Brain Cup Student Innovation Competition — Third Prize** 
@@ -68,7 +67,7 @@ Key components include **delta calibration**, **legality projection (integer-onl
 - **Email:** leojyh123456@gmail.com 
 
 
-## Contact {#contact}
+## <i class="fas fa-envelope"></i> Contact {#contact}
 
 If you are interested in research collaboration or RA opportunities, feel free to reach out:
 - **Email:** leojyh123456@gmail.com 
