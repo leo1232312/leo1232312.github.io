@@ -22,7 +22,9 @@ I work on a collaborative AES framework that **anchors a Teacher LLM with numeri
 Key components include **delta calibration**, **legality projection (integer-only + range clipping)**, and **schema-validated structured outputs**, aiming to improve both **scoring accuracy** and **run-to-run stability**, while producing **rubric-grounded diagnostic feedback**. 
 
 
-## Publications {#publications}
+## <i class="far fa-file-alt"></i> Selected Publications
+{#publications}
+
 
 - **Towards Reliable and Consistent Essay Scoring: A Collaborative Framework with Task-Adaptive Prior Injection**  
   *ACL 2026 submission (under review).*  
