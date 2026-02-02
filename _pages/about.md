@@ -12,7 +12,7 @@ redirect_from:
 I am **Yihang Jiang**, an undergraduate student majoring in **Artificial Intelligence** at **South China University of Technology (SCUT)**.  
 My research interests focus on **Natural Language Processing (NLP)** and **Educational Assessment**, especially **Automated Essay Scoring (AES)** and **reliable score–feedback alignment**. 
 
-**Current focus:** building *stable and consistent* scoring systems by combining **neural scorers** with **Teacher LLM calibration**, mitigating **scale drift** and **score–feedback misalignment**.
+**Current focus:** The application of LLMS.
 
 
 ## Research {#research}
