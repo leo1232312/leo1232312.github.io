@@ -17,10 +17,6 @@ My research interests focus on **Natural Language Processing (NLP)** and **The a
 
 ## <i class="fas fa-flask"></i> Research {#research}
 
-### Automated Essay Scoring with Task-Adaptive Prior Injection
-I work on a collaborative AES framework that **anchors a Teacher LLM with numerical priors** and **task-adaptive contextual signals** (e.g., genre/level hints), enforcing a structured *reasoning-before-scoring* workflow.  
-Key components include **delta calibration**, **legality projection (integer-only + range clipping)**, and **schema-validated structured outputs**, aiming to improve both **scoring accuracy** and **run-to-run stability**, while producing **rubric-grounded diagnostic feedback**. 
-
 
 ## <i class="far fa-file-alt"></i> Selected Publications {#publications}
 
@@ -32,10 +28,7 @@ Key components include **delta calibration**, **legality projection (integer-onl
 
 ## <i class="fas fa-code"></i> Projects {#projects}
 
-### 1) Prior-Injection AES: Reliable Scoring & Consistent Feedback Calibration (ACL 2026)
-- Built a hybrid scoring pipeline that integrates **stable neural priors** with **Teacher LLM calibration**, constrained by **task-adaptive signals** (genre/level/range hints).
-- Implemented **context-constrained reasoning** with **delta correction** and **legality projection**, plus **JSON schema validation** to ensure controllable, reproducible outputs.
-- Conducted repeated-decoding consistency evaluation and ablations on **ASAP/ASAP++**, improving stability and rubric-aligned feedback quality. 
+### 1) Reliable Scoring & Consistent Feedback Calibration (ACL 2026)
 
 ### 2) MCM/ICM 2025 (Problem C): Olympic Success Prediction & “Great Coach” Effect
 - Proposed an integrated framework combining **XGBoost medal count prediction**, **Bayesian Probit Regression with MCMC**, **Fixed Effects Models**, and **Lagged Regression**.
@@ -64,11 +57,10 @@ Key components include **delta calibration**, **legality projection (integer-onl
 ## CV {#cv}
 
 - **PDF:** [Download CV](files/cv.pdf)  
-- **Email:** leojyh123456@gmail.com 
-
+- **Email:** Yihang-Jiang@outlook.com
 
 ## <i class="fas fa-envelope"></i> Contact {#contact}
 
 If you are interested in research collaboration or RA opportunities, feel free to reach out:
 - **Email:** leojyh123456@gmail.com 
-- **GitHub:** https://github.com/leo1232312
+- **GitHub:** Yihang-Jiang@outlook.com
