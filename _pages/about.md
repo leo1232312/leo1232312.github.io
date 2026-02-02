@@ -62,5 +62,5 @@ My research interests focus on **Natural Language Processing (NLP)** and **The a
 ## <i class="fas fa-envelope"></i> Contact {#contact}
 
 If you are interested in research collaboration or RA opportunities, feel free to reach out:
-- **Email:** leojyh123456@gmail.com 
+- **Email:** Yihang-Jiang@outlook.com
 - **GitHub:** Yihang-Jiang@outlook.com
