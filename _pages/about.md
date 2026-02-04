@@ -9,13 +9,18 @@ redirect_from:
 
 ## About Me {#about}
 
-I am **Yihang Jiang**, an undergraduate student majoring in **Artificial Intelligence** at **South China University of Technology (SCUT)**.  
-My research interests focus on **Natural Language Processing (NLP)** and **The application of large language models**, especially **Automated Essay Scoring (AES)**. 
+I am **Yihang Jiang**, a third-year undergraduate majoring in **Artificial Intelligence** at **South China University of Technology (SCUT)**.  
+My interests lie in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**, with a particular focus on **reliable evaluation and controllable generation** in educational assessment scenarios (e.g., **Automated Essay Scoring, AES**). 
 
-**Current focus:** The application of LLMS.
+I am experienced in taking research ideas from **literature review → method design → experimentation & ablation → writing and submission**, and I also enjoy building reproducible pipelines that make experiments stable and easy to iterate.
+
+**Current focus:** LLM-centered evaluation and alignment for writing assessment; reliable scoring and score–feedback consistency.
 
 
 ## <i class="fas fa-flask"></i> Research {#research}
+
+I work on **NLP/LLM applications in educational assessment**, especially **robust and consistent automated essay scoring** and **rubric-aligned feedback generation**.
+
 
 
 ## <i class="far fa-file-alt"></i> Selected Publications {#publications}
@@ -61,6 +66,8 @@ My research interests focus on **Natural Language Processing (NLP)** and **The a
 
 ## <i class="fas fa-envelope"></i> Contact {#contact}
 
+I am actively seeking **NLP/LLM-related research assistant or internship opportunities**.
+
 If you are interested in research collaboration or RA opportunities, feel free to reach out:
 - **Email:** Yihang-Jiang@outlook.com
-- **GitHub:** Yihang-Jiang@outlook.com
+- **GitHub:** https://github.com/leo1232312
